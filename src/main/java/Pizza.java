@@ -1,6 +1,6 @@
 import java.util.List;
 
-// Classe per le pizze
+
 public class Pizza extends MenuItem {
     private List<Topping> toppings;
 
